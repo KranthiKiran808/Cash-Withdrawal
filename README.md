@@ -1,5 +1,9 @@
 In this project, let's build a **Cash Withdrawal** app by applying the concepts we have learned till now.
 
+### To Start the project
+- Download dependencies by running `npm install`
+- Start up the app using `npm start`
+
 ### Refer to the image below:
 
 <br/>
